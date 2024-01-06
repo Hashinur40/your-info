@@ -1,4 +1,4 @@
-username = input(Hashinur)
-Password = input(Hashu)
+username = input()
+Password = input()
 print(username)
 print(password)
